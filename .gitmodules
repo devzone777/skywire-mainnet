@@ -1,0 +1,3 @@
+[submodule "resources/app-build/skywire-data-server"]
+	path = resources/app-build/skywire-data-server
+	url = https://github.com/devzone777/skywire-data-server.git
